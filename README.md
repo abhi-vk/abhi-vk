@@ -8,7 +8,7 @@ Cloud infrastructure engineer working in backup & storage, now deep in a self-dr
 - 🎯 Working toward a full-fledged DevOps role at a product-based company, targeting job applications by late 2026
 - 🛠️ Built and deployed **[ShadeRoute](https://github.com/abhi-vk/ShadeRoute)** — a personal project that tells you which side of the bus to sit on to avoid the sun on long journeys — containerized with a multi-stage Dockerfile, pushed to Docker Hub, deployed on GitHub Pages, with a small GitHub Actions pipeline
 - 📚 Maintain a growing set of self-written revision/interview-prep notes per DevOps concept (Terraform, CI/CD, Jira, Docker, and more)
-- 💻 Background in the MERN stack, with hands-on production Kubernetes experience
+- 💻 Started out in the MERN stack during my internship, now with hands-on production Kubernetes experience; also worked with Python during college
 - 📫 How to reach me: [abhishekkrajanna@gmail.com](mailto:abhishekkrajanna@gmail.com)
 
 #### Connect with me:
